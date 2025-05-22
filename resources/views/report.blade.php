@@ -1,6 +1,6 @@
 <x-app-layout>
     <x-slot name="header">
-        <h2>Reporting Project</h2>
+    <h2 class="text-xl text-white font-semibold leading-tight">Reporting Project</h2>
     </x-slot>
 
     <div class="max-w-7xl mx-auto p-6 bg-white rounded shadow">

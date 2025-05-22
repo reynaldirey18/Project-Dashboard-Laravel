@@ -1,6 +1,6 @@
 <x-app-layout>
     <x-slot name="header">
-        <h2 class="text-xl font-semibold leading-tight">
+        <h2 class="text-xl text-white font-semibold leading-tight">
             Daftar Task
         </h2>
     </x-slot>
