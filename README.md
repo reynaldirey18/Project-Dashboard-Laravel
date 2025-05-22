@@ -19,7 +19,7 @@ Aplikasi manajemen project, task, dan man power berbasis Laravel dengan fitur CR
 | Database       | MySQL 8.0+                  |
 | Frontend       | Tailwind CSS, Alpine.js     |
 | Data Tables    | Yajra DataTables            |
-| Excel Export   | Laravel Excel (maatwebsite) |
+| Excel Export   | Laravel Excel (Maatwebsite) |
 | Charts         | Chart.js                    |
 | Authentication | Laravel Breeze              |
 
