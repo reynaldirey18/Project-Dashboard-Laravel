@@ -70,3 +70,10 @@ php artisan serve
 ```
 
 Buka http://localhost:8000 di browser
+
+## Lisensi
+
+Proyek ini dilisensikan di bawah [MIT License](LICENSE).
+_(Jika Anda menambahkan bagian Lisensi seperti di atas, jangan lupa untuk membuat file `LICENSE` di root proyek Anda yang berisi teks lisensi MIT atau lisensi lain yang Anda pilih)._
+
+@reynaldirp
